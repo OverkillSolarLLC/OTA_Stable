@@ -1,6 +1,10 @@
 # OTA_Stable
 
-# Pathfinder BMS firmware change log July 31 2025
+# Pathfinder BMS firmware change log August 19 2025
+
+## V_0.305_STABLE
+ - Bug fix: add function to clear alarm event counts.
+ - Bug fix: MQTT power mapped to wrong data.
 ## V_0.301_STABLE
 - New feature: BLE encryption can be disabled via OLED . Improves Android device compatibility. 
  - bug fix: incorrect calculation of current calibration %.
